@@ -47,7 +47,6 @@ function upperCase(string) {
 }
 
 
-
 function lowerCase(string) {
 
   let arrString = string.split(' ');
